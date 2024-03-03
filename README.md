@@ -17,7 +17,7 @@
 <br></br>
 
 ## 📁 Project
-23.12~ 24.02 AWS wintercamp X SMWU - Checkbara Service
+23.12~ 24.02 AWS wintercamp X SMWU - [Checkbara Service](https://github.com/COFFEE-BARA)
 <br></br>
 
 ## 📄 Blog
