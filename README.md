@@ -9,7 +9,7 @@
 
 23.03~23.04 Nexol IT Business Proposal Team
 
-23.03~23.12 EG@IG Member
+23.03~23.11 EG@IG Member
 
 23.03~ AWS Cloud Clubs 1th Member
 
@@ -17,7 +17,7 @@
 <br></br>
 
 ## 📁 Project
-23.12~ 24.02 AWS wintercamp X SMWU - [Checkbara Service](https://github.com/COFFEE-BARA)
+23.12~24.02 AWS wintercamp X SMWU - [Checkbara Service](https://github.com/COFFEE-BARA)
 <br></br>
 
 ## 📄 Blog
