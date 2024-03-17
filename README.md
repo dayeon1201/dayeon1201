@@ -5,13 +5,13 @@
 <br></br>
 
 ## 🔎 Experience
-22.03~24.01 SMWU FORZA(C language study club) 26th Member & 27th Executive
+22.03~24.01 SMWU FORZA(C language study club) 26th Member & 27th Management
 
 23.03~23.04 Nexol IT Business Proposal Team
 
 23.03~23.11 EG@IG Member
 
-23.03~ AWS Cloud Clubs 1th Member
+23.03~ AWS Cloud Clubs 1th Member & 2nd Captain
 
 24.03~ Cloud Club 5th Member
 <br></br>
