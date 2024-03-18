@@ -9,14 +9,16 @@
 
 23.03~23.04 Nexol IT Business Proposal Team
 
-23.03~23.11 EG@IG Member
+23.03~23.11 EG@IG 1st Member & SMWU IGYS 1st Management
 
 23.03~ AWS Cloud Clubs 1th Member & 2nd Captain
 
 24.03~ Cloud Club 5th Member
 <br></br>
 
-## 📁 Project
+## 📁 2P (Project & Presentation)
+23.07 KrIGF 12th Presentation - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
+
 23.12~24.02 AWS wintercamp X SMWU - [Checkbara Service](https://github.com/COFFEE-BARA)
 <br></br>
 
@@ -31,6 +33,7 @@
 
 ### Used at least once
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
