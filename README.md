@@ -5,7 +5,7 @@
 <br></br>
 
 ## 🔎 Experience
-22.03~24.01 SMWU FORZA(C language study club) 26th Member & 27th Management
+22.03~24.01 SMWU FORZA(C language mentoring club) 26th Member & 27th Management
 
 23.03~23.04 Nexol IT Business Proposal Team
 
