@@ -27,12 +27,12 @@
 <br></br>
 
 ## 💻 Skills
-### Used at the Main 
+### Most Interested
 <img src="https://img.shields.io/badge/ aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/></a>
 
 ### Used at least once
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -51,5 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dayeon1201&theme=tokyonight&show_icons=true" width="30%" />
 </a>
 <br></br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=did6912)](https://solved.ac/did6912/)
