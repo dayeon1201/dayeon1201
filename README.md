@@ -14,7 +14,7 @@
 <br>
 
 ## 📁 2P (Project & Presentation)
-##### 23.07 KrIGF 12th Presentation - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
+##### 23.07 12th KrIGF Presentation - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
 ##### 23.12~24.02 AWS wintercamp X SMWU - [Checkbara Service](https://github.com/COFFEE-BARA)
 <br>
 
