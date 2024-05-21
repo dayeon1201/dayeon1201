@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/ aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/></a>
 
 #### Used at least once
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
