@@ -15,6 +15,7 @@
 
 ## 📁 2P (Project & Presentation)
 ##### 23.07 12th Korea Internet Governance Forum - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
+##### 24.06 5th Cloud Club Conference - [Service Mesh with Istio](https://youtu.be/ZGUZVkbzOwg?si=hj_zYyg1b-qCWU2n)
 ##### 23.12~24.02 AWS wintercamp X SMWU - [Checkbara Service](https://github.com/COFFEE-BARA)
 <br>
 
