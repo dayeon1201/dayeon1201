@@ -2,6 +2,10 @@
 ### 🐑 Dayeon Yang 
 ---
 ✏️ SMWU Software Convergence Major 
+
+<a href="https://www.linkedin.com/in/dayeonyang121/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://ydy1201.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 <br></br>
 
 ## 🔎 Experiences
@@ -17,11 +21,6 @@
 ##### 23.07 12th Korea Internet Governance Forum - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
 ##### 24.06 5th Cloud Club Conference - [Service Mesh with Istio](https://youtu.be/ZGUZVkbzOwg?si=hj_zYyg1b-qCWU2n)
 ##### 23.12~24.02 AWS wintercamp X SMWU - [Checkbara Service](https://github.com/COFFEE-BARA)
-<br>
-
-## 📄 Blog
-<a href="https://ydy1201.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
 <br>
 
 ## 💻 Skills
