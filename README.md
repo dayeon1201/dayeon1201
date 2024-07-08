@@ -11,10 +11,11 @@
 ## 🔎 Experiences
 
 - 22.03 ~ 24.01 SMWU FORZA(C language mentoring club) 26th Member & 27th Management
-- 23.03 ~ 23.04 Nexol IT Business Proposal Team
+- 23.03 ~ 23.04 Nexol : IT Business Proposal Team
 - 23.03 ~ 23.11 EG@IG 1st Member & SMWU IGYS 1st Management
 - 23.03 ~ AWS Cloud Clubs 1th Member & 2nd Captain
 - 24.03 ~ Cloud Club 5th Member
+- 24.06 ~ FPT Software in HANOI : Software engineering internship in NGT DevOps Team
 </br>
 
 ## 📁 2P (Project & Presentation)
