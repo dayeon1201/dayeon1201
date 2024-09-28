@@ -1,7 +1,7 @@
 
 ### 🐑 Dayeon Yang 
 ---
-✏️ SMWU Software Convergence Major 
+✏️ Sookmyung Women's University Software Convergence Major 
 
 <a href="https://www.linkedin.com/in/dayeonyang121/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://ydy1201.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -10,18 +10,18 @@
 
 ## 🔎 Experiences
 
-- 22.03 ~ 24.01 SMWU FORZA(C language mentoring club) 26th Member & 27th Management
-- 23.03 ~ 23.04 Nexol : IT Business Proposal Team
-- 23.03 ~ 23.11 EG@IG 1st Member & SMWU IGYS 1st Management
-- 23.03 ~ AWS Cloud Clubs 1th Member & 2nd Captain
-- 24.03 ~ Cloud Club 5th Member
-- 24.06 ~ FPT Software in HANOI : Software engineering internship in NGT DevOps Team
+- 03.22 ~ 01.24 : SMWU FORZA(C language mentoring club) 26th Member & 27th Management
+- 03.23 ~ 04.23 : Nexol - IT Business Proposal Team
+- 03.23 ~ 11.23 : EG@IG 1st Member & SMWU IGYS 1st Management (Related to Internet Governance)
+- 03.23 ~ : AWS Cloud Clubs 1th Member & 2nd Captain
+- 03.24 ~ : Cloud Club 5th Member
+- 07.24 ~ 09.24 : FPT Software in HANOI - Software engineer global internship at NGT DevOps Dept.
 </br>
 
 ## 📁 2P (Project & Presentation)
-- 23.07 The 12th Korea Internet Governance Forum - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
-- 23.12 ~ 24.02 AWS X Elastic Project - [Checkbara Service](https://github.com/COFFEE-BARA)
-- 24.06 The 5th Cloud Club Conference - [Service Mesh with Istio](https://youtu.be/ZGUZVkbzOwg?si=hj_zYyg1b-qCWU2n)
+- 07.23 : The 12th Korea Internet Governance Forum - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
+- 12.23 ~ 02.24 : AWS X Elastic Project - [Checkbara Service](https://github.com/COFFEE-BARA)
+- 06.24 : The 5th Cloud Club Conference - [Service Mesh with Istio](https://youtu.be/ZGUZVkbzOwg?si=hj_zYyg1b-qCWU2n)
 </br>
 
 ## 💻 Skills
@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/ aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/></a>
 
