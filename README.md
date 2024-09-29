@@ -14,8 +14,8 @@
 - 03.23 ~ 04.23 : Nexol - IT Business Proposal Team
 - 03.23 ~ 11.23 : EG@IG 1st Member & SMWU IGYS 1st Management (Related to Internet Governance)
 - 03.23 ~ : AWS Cloud Clubs 1th Member & 2nd Captain
-- 03.24 ~ : Cloud Club 5th Member
-- 07.24 ~ 09.24 : FPT Software in HANOI - Software engineer global internship at NGT DevOps Dept.
+- 03.24 ~ : Cloud Club 5th, 6th Member
+- 07.24 ~ 09.24 : FPT Software in HANOI - Software engineer Global Internship at NGT DevOps Dept.
 </br>
 
 ## 📁 2P (Project & Presentation)
