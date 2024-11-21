@@ -16,12 +16,14 @@
 - 03.23 ~ : AWS Cloud Clubs 1th Member & 2nd Captain
 - 03.24 ~ : Cloud Club 5th, 6th Member
 - 07.24 ~ 09.24 : FPT Software in HANOI - Software engineer Global Internship at NGT DevOps Dept.
+
 </br>
 
 ## 📁 2P (Project & Presentation)
 - 07.23 : The 12th Korea Internet Governance Forum - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
 - 12.23 ~ 02.24 : AWS X Elastic Project - [Checkbara Service](https://github.com/COFFEE-BARA)
 - 06.24 : The 5th Cloud Club Conference - [Service Mesh with Istio](https://youtu.be/ZGUZVkbzOwg?si=hj_zYyg1b-qCWU2n)
+- 05.24 ~ 10.24 : Open Cloud Platform K-PaaS Contest (Bronze award 🥉) - [Analyzing of SMS-Phishing Service](https://github.com/Cl-PaaS)
 </br>
 
 ## 💻 Skills
