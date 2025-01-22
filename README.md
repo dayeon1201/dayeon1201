@@ -52,7 +52,7 @@
 
 ## ↗️ Stats
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayeon1201&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayeon1201&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight&count-private=true" width="33%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=dayeon1201&theme=tokyonight&show_icons=true" width="30%" />
