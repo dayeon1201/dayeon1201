@@ -52,10 +52,10 @@
 
 ## ↗️ Stats
 <a href="s">
-  <img src="https://github-readme-stats-nu-three-37.vercel.app/api/top-langs/?username=dayeon1201&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight&count-private=true" width="290px" />
+  <img src="https://github-readme-stats-nu-three-37.vercel.app/api/top-langs/?username=dayeon1201&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight&count-private=true" width="300px" />
 </a>
 </br>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayeon1201&theme=tokyonight&show_icons=true" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayeon1201&theme=tokyonight&show_icons=true" width="45%" />
 </a>
 <br></br>
