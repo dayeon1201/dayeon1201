@@ -12,10 +12,10 @@
 
 - 03.22 ~ 01.24 : SMWU FORZA(C language mentoring club) 26th Member & 27th Management
 - 03.23 ~ 04.23 : Nexol - IT Business Proposal Team
-- 03.23 ~ 11.23 : EG@IG 1st Member & SMWU IGYS 1st Management (Related to Internet Governance)
-- 03.23 ~ : AWS Cloud Clubs 1th Member & 2nd Captain
-- 03.24 ~ : Cloud Club 5th, 6th Member
-- 07.24 ~ 09.24 : FPT Software in HANOI - Software engineer Global Internship at NGT DevOps Dept.
+- 03.23 ~ 11.23 : EG@IG 1st Member & SMWU IGYS 1st Management (Relates to Internet Governance)
+- 03.23 ~ : AWS Cloud Clubs 1th Member & 2nd, 3rd Captain
+- 03.24 ~ 01.25: Cloud Club 5th, 6th Member
+- 07.24 ~ 08.24 : FPT Software in Hanoi - Software engineer Global Internship at NGT DevOps Dept.
 
 </br>
 
