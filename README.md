@@ -13,17 +13,17 @@
 - 03.22 ~ 01.24 : SMWU FORZA(C language mentoring club) 26th Member & 27th Management
 - 03.23 ~ 04.23 : Nexol - IT Business Proposal Team
 - 03.23 ~ 11.23 : EG@IG 1st Member & SMWU IGYS 1st Management (Relates to Internet Governance)
-- 03.23 ~ : AWS Cloud Clubs 1th Member & 2nd, 3rd [Captain](https://www.credly.com/badges/984f9cf6-09ad-4183-83f7-54383af32b1f)
+- 03.23 ~ : AWS Cloud Clubs 1st Member & 2nd, 3rd [Captain](https://www.credly.com/badges/984f9cf6-09ad-4183-83f7-54383af32b1f)
 - 03.24 ~ 01.25: Cloud Club 5th, 6th Member
-- 07.24 ~ 08.24 : FPT Software in Hanoi - Software engineer Global Internship at NGT DevOps Dept.
+- 07.24 ~ 08.24 : FPT Software in Hanoi - Software engineer Global Internship at NGT DevOps Dept
 
 </br>
 
 ## 📁 2P (Project & Presentation)
 - 07.23 : The 12th Korea Internet Governance Forum - [Youth Track](https://youtu.be/7nbV1Z2VXJo?si=72wupK59_jRKCKN7)
-- 12.23 ~ 02.24 : AWS X Elastic Project - [Checkbara Service](https://github.com/COFFEE-BARA)
-- 06.24 : The 5th Cloud Club Conference - [Service Mesh with Istio](https://youtu.be/ZGUZVkbzOwg?si=hj_zYyg1b-qCWU2n)
-- 05.24 ~ 10.24 : Open Cloud Platform K-PaaS Contest (Bronze award 🥉) - [Analyzing of SMS-Phishing Service](https://github.com/Cl-PaaS)
+- 12.23 ~ 02.24 : AWS X Elastic Project - [Book Stock Check and AI Recommendation WebApp](https://github.com/COFFEE-BARA)
+- 06.24 : The 5th Cloud Club Conference - [First Step of Service Mesh with Istio](https://youtu.be/ZGUZVkbzOwg?si=hj_zYyg1b-qCWU2n)
+- 05.24 ~ 10.24 : Open Cloud Platform K-PaaS Contest (Bronze award 🥉) - [SMS phishing detection Android app](https://github.com/Cl-PaaS)
 </br>
 
 ## 💻 Skills
