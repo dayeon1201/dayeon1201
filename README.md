@@ -35,6 +35,9 @@
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/></a>
 
+<img width="170" alt="terraform-associate-badge" src="https://github.com/user-attachments/assets/03d504b3-6bb7-47e1-8eb1-9fe9102dd12d">
+
+
 #### Development
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
