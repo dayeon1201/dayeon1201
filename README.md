@@ -16,6 +16,7 @@
 - 03.23 ~ : AWS Cloud Clubs 1st Member & 2nd, 3rd [Captain](https://www.credly.com/badges/984f9cf6-09ad-4183-83f7-54383af32b1f)
 - 03.24 ~ 01.25: Cloud Club 5th, 6th Member
 - 07.24 ~ 08.24 : FPT Software in Hanoi - Software engineer Global Internship at NGT DevOps Dept
+- 06.25 ~ present : AWS in South Korea - Cloud Support Engineer Intern
 
 </br>
 
