@@ -17,6 +17,8 @@
 - 03.24 ~ 01.25: Cloud Club 5th, 6th Member
 - 07.24 ~ 08.24 : FPT Software in Hanoi - Software engineer Global Internship at NGT DevOps Dept
 - 06.25 ~ 12.25 : AWS Korea - Cloud Support Engineer Intern
+  - Serverless workshop for high school students : [Article](https://www.joongdo.co.kr/web/view.php?key=20251120010007502)
+  - Istio Ambient Mode on EKS : [AWS Tech Blog](https://aws.amazon.com/ko/blogs/tech/integrating-istio-ambient-mesh-on-amazon-eks/)
 
 </br>
 
