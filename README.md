@@ -16,7 +16,7 @@
 - 03.23 ~ : AWS Cloud Clubs 1st Member & 2nd, 3rd [Captain](https://www.credly.com/badges/984f9cf6-09ad-4183-83f7-54383af32b1f)
 - 03.24 ~ 01.25: Cloud Club 5th, 6th Member
 - 07.24 ~ 08.24 : FPT Software in Hanoi - Software engineer Global Internship at NGT DevOps Dept
-- 06.25 ~ present : AWS Korea - Cloud Support Engineer Intern
+- 06.25 ~ 12.25 : AWS Korea - Cloud Support Engineer Intern
 
 </br>
 
@@ -30,6 +30,10 @@
 ## 💻 Skills
 #### Most Interested
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
+<img src="https://img.shields.io/static/v1?style=flat-square&message=Amazon+VPC&color=8C4FFF&logo=Amazon+VPC&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?style=flat-square&message=Amazon+ECS&color=FF9900&logo=Amazon+ECS&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/badge/Amazon%20EKS-326CE5?style=flat-square&logo=amazoneks&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/></a>
@@ -37,6 +41,7 @@
 <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/></a>
 
 <img width="170" alt="terraform-associate-badge" src="https://github.com/user-attachments/assets/03d504b3-6bb7-47e1-8eb1-9fe9102dd12d">
+
 
 
 #### Development
