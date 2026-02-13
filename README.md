@@ -1,8 +1,10 @@
 
 ### 🐑 Dayeon Yang 
 ---
-✏️ Sookmyung Women's University Software Convergence Major 
+**CloudOps | DevOps | SRE | Platform Engineering**
+`QnVpbGRpbmcgc29sdXRpb24tZHJpdmVuIENsb3VkT3BzLCBEZXZPcHMsIGFuZCBTUkUgd2l0aCBhIHN0cm9uZyBmb2N1cyBvbiBidXNpbmVzcyBpbXBhY3QsIGF1dG9tYXRpb24sIGFuZCByZWxpYWJpbGl0eS4=`
 
+</br>
 <a href="https://www.linkedin.com/in/dayeonyang121/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://ydy1201.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
@@ -11,11 +13,11 @@
 ## 🔎 Experiences
 
 - 03.22 ~ 01.24 : SMWU FORZA(C language mentoring club) 26th Member & 27th Management
-- 03.23 ~ 04.23 : Nexol - IT Business Proposal Team
+- 03.23 ~ 04.23 : Nexol - IT Business Proposal Writer
 - 03.23 ~ 11.23 : EG@IG 1st Member & SMWU IGYS 1st Management (Relates to Internet Governance)
-- 03.23 ~ : AWS Cloud Clubs 1st Member & 2nd, 3rd [Captain](https://www.credly.com/badges/984f9cf6-09ad-4183-83f7-54383af32b1f)
-- 03.24 ~ 01.25: Cloud Club 5th, 6th Member
-- 07.24 ~ 08.24 : FPT Software in Hanoi - Software engineer Global Internship at NGT DevOps Dept
+- 03.23 ~ 12.25 : AWS Cloud Clubs 1st Member & 2nd, 3rd [Captain](https://www.credly.com/badges/984f9cf6-09ad-4183-83f7-54383af32b1f)
+- 03.24 ~ 01.25 : Cloud Club 5th, 6th Member
+- 07.24 ~ 08.24 : FPT Software in Hanoi - Software Engineer Intern at NGT DevOps Dept
 - 06.25 ~ 12.25 : AWS Korea - Cloud Support Engineer Intern
   - Serverless workshop for high school students : [Article](https://www.joongdo.co.kr/web/view.php?key=20251120010007502)
   - Istio Ambient Mode on EKS : [AWS Tech Blog](https://aws.amazon.com/ko/blogs/tech/integrating-istio-ambient-mesh-on-amazon-eks/)
@@ -42,9 +44,9 @@
 <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/></a>
 
+<img width="170" height="600" alt="cka_from_cncfsite__281_29" src="https://github.com/user-attachments/assets/d1433237-47be-41cd-825f-e91414c092f4" />
 <img width="170" alt="terraform-associate-badge" src="https://github.com/user-attachments/assets/03d504b3-6bb7-47e1-8eb1-9fe9102dd12d">
 <img width="170" height="600" alt="image" src="https://github.com/user-attachments/assets/cf7a8903-eeff-4f9b-b1f4-d425ab544f0d" />
-
 
 #### Development
 
